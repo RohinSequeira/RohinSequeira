@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Rohin and welcome to my repo
 
 <!--
 **RohinSequeira/RohinSequeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I work with data!
+- 🔭 I’m currently working on improving my profile
+- 🌱 I’m currently learning Computer Vision with Deep Learning using Pytorch
+- 👯 I’m looking to collaborate with anyone interested to work on solving exsiting real life problems
+- 🥅 2021 goal: Contribute more to open source projects
+
+
+

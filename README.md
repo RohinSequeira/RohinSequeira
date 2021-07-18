@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Computer Vision with Deep Learning using Pytorch
 - 👯 I’m looking to collaborate with anyone interested to work on solving exisiting real life problems
 - 💬 Ask me about Data Science, ML, Python... happy to help!
-- 🥅 2021 goal: Contribute more to open source projects
+- 🥅 2021 goal: Contribute to open source projects
 
 
 

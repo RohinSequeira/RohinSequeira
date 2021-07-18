@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I work with data!
 - 🔭 I’m currently working on improving my profile
 - 🌱 I’m currently learning Computer Vision with Deep Learning using Pytorch
-- 👯 I’m looking to collaborate with anyone interested to work on solving exsiting real life problems
+- 👯 I’m looking to collaborate with anyone interested to work on solving exisiting real life problems
 - 🥅 2021 goal: Contribute more to open source projects
 
 

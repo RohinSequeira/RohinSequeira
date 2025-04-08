@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## I work with data!
 - 🔭 I’m currently working on improving my profile
-- 🌱 I’m currently learning Computer Vision with Deep Learning using Pytorch
+- 🌱 I’m currently working on building Agentic Systems
 - 👯 I’m looking to collaborate with anyone interested to work on solving exisiting real life problems
-- 💬 Ask me about Data Science, ML, Python... happy to help!
-- 🥅 2021 goal: Contribute to open source projects
+- 💬 Ask me about AI Engineering, Data Science, ML, Python... happy to help!
+- 🥅 2025 goal: Build open source AI Projects
 
 
 

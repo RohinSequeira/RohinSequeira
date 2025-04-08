@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## I work with data!
-- 🔭 I’m currently working on improving my profile
+- 🔭 I’m always working on improving myself...
 - 🌱 I’m currently working on building Agentic Systems
 - 👯 I’m looking to collaborate with anyone interested to work on solving exisiting real life problems
 - 💬 Ask me about AI Engineering, Data Science, ML, Python... happy to help!
